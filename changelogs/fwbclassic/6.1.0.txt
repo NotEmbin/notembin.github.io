@@ -1,0 +1,6 @@
+- Added Toy Bonnie
+- Changed the FNAF World logo
+- New achievements (Achievement Pack 1)
+- Modified Credits
+- Changed the 4th Wall and 'Tiny 4th Wall' sound effect
+- Fixed the "Hook" attack being in the wrong place when playing as Nightmare Foxy (again)

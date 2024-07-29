@@ -1,0 +1,3 @@
+- Added a warning when starting the game
+- Scott Boss Battle has different background
+- Pressing the FNAF World Logo on the title screen activates the credits

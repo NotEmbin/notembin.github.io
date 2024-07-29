@@ -1,0 +1,5 @@
+- Fixed Warning Screen Loading
+- Fixed Title Screen background showing when doing Bash Jam
+- Title Screen will be different on New Years Eve and New Years Day
+- "Fearless Fighter" will no longer play on the title screen
+- Text to Speach for the Virtual Mouse Button added

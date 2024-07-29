@@ -1,0 +1,4 @@
+- Title screen changed
+- Regen Song button animated (don't know how i never noticed it before)
+- Golden Freddy now has Prize Ball 2, replacing Pizza Wheel 2
+- boop freddy's nose
