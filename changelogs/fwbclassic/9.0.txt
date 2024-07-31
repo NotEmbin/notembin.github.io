@@ -1,0 +1,17 @@
+- Added support for custom teams
+- Added Roblox Noob
+- Added Roblox Bacon Hair
+- Added a news section
+- Added a GUI scale setting
+- Added an animation that plays when defeating the enemies
+- Added new battle background (Volcano)
+- Added splash text for specific holidays
+- New splash text
+- New Title Screen Background and Music
+- Loading screen looks different
+- Attacks that aren't supported in certain modes now say they aren't supported
+- The 'FPS' and 'Settings' button no longer glides into place when clicking start fast enough
+- Fixed 'Pizza Wheel' being in the wrong place as Nightmare Foxy
+- Updated credits
+- Removed unnecessary files
+- Internal Changes

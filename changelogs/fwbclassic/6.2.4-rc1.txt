@@ -1,0 +1,2 @@
+- Fully patched the Victory popup showing when defeating Animdude: The Revenge
+- Fixed the "Jumpscare 2" Attack button not disappearing when an attack is performed

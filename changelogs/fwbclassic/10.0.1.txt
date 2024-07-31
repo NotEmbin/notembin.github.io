@@ -1,0 +1,4 @@
+- [World Mode] Decreased the time it takes for a random encounter to occur
+- Updated credits
+
+47

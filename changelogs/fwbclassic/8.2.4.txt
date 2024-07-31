@@ -1,0 +1,9 @@
+- Added a settings menu, with various options
+- Added new cutscene that plays when clicking the 'Coming Soon' option in the modes menu
+- Moved the 'Show Mouse' option to the settings menu
+- Slightly adjusted the Evil Bear's animation
+- Fixed team selection appearing infront of achievements screen
+- Fixed 'Punch' being the wrong place sometimes as Engineer
+- Fixed 'Hook' for the final time, aaaa
+- Internal Changes
+- Optimized some code

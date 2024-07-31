@@ -1,0 +1,3 @@
+- Fixed team health being set to 0
+
+30

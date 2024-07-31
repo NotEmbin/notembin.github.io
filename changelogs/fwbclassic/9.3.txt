@@ -1,0 +1,20 @@
+- Added Roblox Zombie
+- Added Minecraft Zombie
+- Attack Buttons now use a single sprite, instead of multiple
+- Added logs (only visible for some)
+- Added new splash text
+- Resetting the settings will show the warning again when clicking the green flag
+- The enemies now appear visually poisoned with 'Toxic Song' and 'Toxic Balloon'
+- 'Toxic Song' now randomly takes away 3 to 5 health
+- 'Menu Background' option can now go to 0, which disables the background
+- 'Prize Ball 2' can no longer choose 'Top Hat Throw' or 'Freddles'
+- 'Prize Ball 2' can now choose 'Sword Toss' or 'Jumpscare 2'
+- Fixed an issue with the News
+- Fixed Settings icon appearing in front of the Achievements screen
+- Fixed 'Disguise' not choosing Cleetus, Roblox Zombie, and Minecraft Zombie
+- Fixed Mini Scott instantly dying when chosen
+- Updated credits
+- Improved performance
+- Optimized some code
+- Removed unnecessary files
+- Removed all attack button sprites

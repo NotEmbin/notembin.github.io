@@ -1,0 +1,8 @@
+- [World Mode] Dialogue appearence has been changed
+- [World Mode] Added a 'Save' and 'Party' button (currently don't do anything)
+- [World Mode] 'Speed' chip has been renamed to 'World: Speed'
+- Some buttons now become brighter and play a sound when hovered over with the mouse
+- Character health is now determined by a list
+- Fixed 'Random' always setting the player's health to 155
+- Fixed team loading not putting the characters in the right position
+- Internal changes

@@ -1,0 +1,4 @@
+- Fixed title logo appearing again if you hit start to quickly
+- Fixed news menu appearing behind achievement screen
+- Fixed news menu appearing behind settings screen
+- Removed unnecessary files

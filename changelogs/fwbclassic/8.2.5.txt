@@ -1,0 +1,4 @@
+- New splash text
+- 'Pizza Wheel' got an upgrade
+- 'Pizza Wheel' now does 25 damage towards Animdude, instead of 20
+- Fixed the menu background still following the mouse after returning to title screen

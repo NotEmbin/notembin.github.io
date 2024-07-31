@@ -1,0 +1,19 @@
+- [World Mode] Added Area 4
+- [World Mode] Random music now plays
+- [World Mode] The 'Return to Title' button can no longer be clicked while in the chip menu
+- [World Mode] Internal changes
+- Added Rthro Man
+- New splash text
+- The 'Wrench Toss' attack button is now slightly bigger
+- Changes to news
+- Fixed the player's animation being wonky after returning to title
+- Fixed clicking the 'Return to Title' under specific conditions not stopping the credits
+- Fixed the bosses appearing dead when they shouldn't after killing them and returning to title
+- Fixed 'Bash Jam' being mute
+- Fixed the splash text not changing when returning to title
+- Fixed the player death sound not stopping after returning to title
+- Fixed an issue with an easter egg
+- Optimized some code
+- Internal changes
+
+24

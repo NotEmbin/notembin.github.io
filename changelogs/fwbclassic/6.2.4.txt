@@ -1,0 +1,12 @@
+- Redbear will now be the enemy when playing as Fredbear
+- The achievements button and mouse toggle button swapped places
+- Changed the main menu to fit longer version names
+- Internal changes
+- Removed unnecessary files
+- Fixed Freddy's Nose
+- Fixed the "Punch" Attack doing nothing towards Animdude: The Revenge
+- Fixed the "Top Hat Throw" Attack doing nothing towards Animdude: The Revenge
+- Fixed the "Jack-O-Bomb" Attack doing nothing towards Animdude: The Revenge
+- Fixed the "Slasher" Attack doing nothing towards Animdude: The Revenge
+- Fixed the "Victory" pop-up showing after defeating Animdude: The Revenge
+- Fixed the "Jumpscare 2" Attack button not disappearing when an attack is performed

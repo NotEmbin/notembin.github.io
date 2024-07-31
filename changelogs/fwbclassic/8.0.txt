@@ -1,0 +1,24 @@
+- Added 'Team' mode
+- Added Heavy
+- Added Engineer
+- Main menu now has splash text
+- Sounds are now handled differently
+- Changed how the Enemys attacks
+- The 'Springlocks' attack was overhauled
+- Added achievement popup for the "Sad child beats up buff guy" achievement
+- Changed the main menu background
+- New menu music
+- New battle backgrounds
+- Lowered the Grave sprite
+- Background now follows the mouse when in the character selection screen
+- Decreased the time it takes for the Character selection screen to appear
+- Booping Freddy's nose now can play a random sound
+- 'Giftboxes Chance' now has a higher chance when fighting Animdude: The Revenge
+- Updated sounds for Buzzsaw, Pizza Wheel 2, Jack o' Bombs, and Pizza Wheel
+- Fixed text appearing behind the 'fin' text in credits
+- Fixed Steve, Alex, Angry Freddy, and Uncle Bonnie not turning into gravestones when losing
+- Lowered the Start button
+- Updated credits
+- Removed unnecessary files
+- Internal Changes
+- Added new easter egg in the title screen

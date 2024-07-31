@@ -1,0 +1,7 @@
+- Added a secret that only appears on a certain day
+- Updated credits
+- Fixed the mouse's texture being broken
+
+30
+
+- 2/3 chance that splash is "Techno Support <3"

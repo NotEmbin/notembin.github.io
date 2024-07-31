@@ -1,0 +1,8 @@
+- A money cloud now appears when performing 'Money Shower'
+- Changed Crying Child's animation
+- New splash text
+- Fixed characters in Team Mode appearing infront of the loading screen
+- Updated credits
+- Internal changes
+
+29

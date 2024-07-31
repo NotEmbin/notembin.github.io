@@ -1,0 +1,7 @@
+- An icon now appears when you disguise, showing which character you disguised as
+- Replaced the 'Team Mode' button with a 'Modes...' button
+- Improved the look of the 'Disguise' button when locked
+- An effect now shows when disguising
+- Slightly lowered the 'Disguise' button
+- Fixed 'Hook' being in the wrong place when disguised
+- Internal changes

@@ -1,0 +1,2 @@
+- Fixed 'Disguise' not visually showing when it cannot be selected
+- Fixed attacks not supported in Team mode not visually showing that they're unsupported

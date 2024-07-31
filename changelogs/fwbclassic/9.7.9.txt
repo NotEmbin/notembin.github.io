@@ -1,0 +1,3 @@
+- [World Mode] Fixed the regular 'Return to Title' button appearing in battle
+
+30

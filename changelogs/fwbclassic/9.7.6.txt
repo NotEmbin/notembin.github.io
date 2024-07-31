@@ -1,0 +1,5 @@
+- Team health is now a total of each team member's health, instead of just 500
+- Fixed the 'Random' option not choosing Robux Man or Rthro Man
+- Fixed Team Mode characters appearing infront of the lore scene
+
+30

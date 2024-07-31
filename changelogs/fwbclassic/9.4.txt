@@ -1,0 +1,11 @@
+- Added a preview for 'World Mode'
+- Added a 'Random' option to the character selection screen
+- Added icon for future character
+- Updated textures for the Evilbear
+- New splash text
+- Fixed the Evil Bear not being shown as Redbear when playing as Fredbear
+- Fixed stray pixels in the 'Wrench Toss' attack
+- Optimized some code
+- Internal changes
+
+- Sprite folders

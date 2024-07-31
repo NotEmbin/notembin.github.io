@@ -1,0 +1,11 @@
+- Added Cleetus
+- Added Team 4
+- Added the "Play Music" option
+- "Animate Charater" option now effects some menu animations
+- Fixed Freddy messing up team mode
+- Fixed Custom Team Button looking weird at the top when in fullscreen
+- Removed unnecessary files
+- Internal changes
+
+
+- "Bite 2" attack button has moved slightly

@@ -1,0 +1,5 @@
+- Fixed Freddy's nose
+- Internal Changes
+- Removed unnecessary files
+- Fixed the "Punch" Attack doing nothing towards Animdude: The Revenge
+- Fixed the "Top Hat Throw" Attack doing nothing towards Animdude: The Revenge

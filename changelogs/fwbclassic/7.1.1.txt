@@ -1,0 +1,5 @@
+- Added an Achievement Popup for certain achievements
+- Reverted Credits Music to how it was before v7.1
+- Updated sounds for Mic Toss
+- Fixed Scott Boss Battle background showing during Credits after beating Animdude: The Revenge
+- Fixed Animdude: The Revenge's health still showing after defeating him

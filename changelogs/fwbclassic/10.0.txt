@@ -1,0 +1,42 @@
+- [World Mode] Added Area 6, 7, 8, 9, 10, 11
+- [World Mode] Added NPC 3 to area 11
+- [World Mode] Added NPC 4 to area 4
+- [World Mode] A story event happens after defeating NPC 2
+- [World Mode] Added random encounters that occur after the first story event
+- [World Mode] NPC 1 now appears in area 1
+- [World Mode] NPC 3 now gives the Speed chip, instead of NPC 1
+- [World Mode] Changed NPC 1's dialogue
+- [World Mode] Added a party menu, to select your character
+- [World Mode] Dialogue is now quieter
+- Added Minecraft Skeleton
+- Added Minecraft Stray
+- Added Minecraft Husk
+- Added a random option to Team Mode
+- Added a music volume slider in the settings menu
+- Added a sound volume slider in the settings menu
+- Added an option in the settings to have the attack buttons be where they are in FNAF World
+- New title screen background
+- New title screen music
+- Custom Teams now ask for the character's ID name, instead of number IDs.
+- New splash text
+- Modified some existing splash text
+- The character selection icons now use a single sprite
+- Character buttons now increase in size when hovered over
+- The credits will now automatically return to the title screen after finishing
+- The lore secret after defeating Chica's Magic Rainbow no longer appears
+- 'Mini Gun' attack can now be used in team mode and when disguised
+- Title screen music now plays after the loading screen, as it was prior to v7.0
+- Background now moves less when in the character selection screen
+- Added a secret for Halloween
+- Raised the character selection
+- Optimized how the achievement screen changes the displayed achievements
+- Fixed the unsupported attack message appearing behind the attack button
+- Fixed attack buttons being clickable during credits
+- Fixed being able to click the settings menu and create unnecessary clones
+- Fixed attack buttons being clickable even if it's not the player's turn
+- Internal changes
+- Removed the 'Play Music' option from the settings
+- Removed the '(Preview)' at the end of the World Mode button
+- Removed unnecessary files
+
+46

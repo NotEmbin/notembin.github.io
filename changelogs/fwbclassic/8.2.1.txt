@@ -1,0 +1,3 @@
+- 'Jumpscare' now takes away 10 of the enemy's health, instead of 5
+- Fixed music restarting when entering the Team Mode menu
+- Removed old Team Mode menu music from files
