@@ -1,1 +1,0 @@
-- Fixed 'Disguise' creating a large amount of clones, making the attack buttons fail to appear after a few disguises

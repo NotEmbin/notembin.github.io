@@ -1,7 +1,0 @@
-- [World Mode] The 'Back to Title' button gives a confirmation screen
-- [World Mode] Fixed version number being wrong
-- New splash text
-- Fixed the Evilbear appearing in front of the 'Disguise' effect
-- Fixed the disguise clue not disappearing after returning to title
-
-25

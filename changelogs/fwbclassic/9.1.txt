@@ -1,7 +1,0 @@
-- Many technical changes
-- Added Icon for new charatcer (will be added in v9.2)
-- Added splash text for the 4th of July
-- Spy's 'Disguise' can now pick Roblox Noob or Bacon Hair
-- The death sound effect is now quieter
-- Fixed GUI Scale option showing as "gui_scale"
-- Removed unnecessary

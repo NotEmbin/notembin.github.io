@@ -1,5 +1,0 @@
-- [World Mode] The 'Back to Title' button now appears in battle
-- [World Mode] Fixed 'World Mode' options not disappearing when talking to the 2nd NPC
-- [World Mode] Fixed the clock in the corner disappearing when in battle
-
-27

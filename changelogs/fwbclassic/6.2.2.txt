@@ -1,6 +1,0 @@
-- Achievement button modified
-- Giftboxes are now smaller
-- Decreased warning screen wait time from 1.2 seconds to 0.85 seconds
-- Internal Changes
-- Defeating Animdude: The Revenge now shows credits when defeated.
-- Credits music different

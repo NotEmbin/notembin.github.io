@@ -1,4 +1,0 @@
-- [World Mode] Fixed the version number being wrong
-- Fixed the 'Random' option not setting health properly
-
-30

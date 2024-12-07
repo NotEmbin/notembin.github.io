@@ -1,9 +1,0 @@
-- [World Mode] Dialogue now use's Toopgobo's Undertale text engine
-- [World Mode] The 'Battle : Speed' chip now works
-- [World Mode] Added a settings icon (currently does nothing)
-- [World Mode] Fixed the battle using your last used character
-- [World Mode] Fixed the attack buttons sometimes not disappearing after battle
-- Slightly adjusted copyright text
-- Internal changes
-
-28

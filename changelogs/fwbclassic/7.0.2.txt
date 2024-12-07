@@ -1,5 +1,0 @@
-- Updated sounds for "Sword Toss" & "Pick Toss"
-- Added new achievements ("Achievement Pack 3" & "Impossible Pack 1").
-- The "Select a Character" text now changes color faster.
-- Fixed Victory Score Text showing up after defeating Animdude: The Revenge.
-- Removed unnecessary files.

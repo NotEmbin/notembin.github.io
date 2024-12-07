@@ -1,2 +1,0 @@
-- Fixed the Achievements button not working
-- Removed unnecessary files

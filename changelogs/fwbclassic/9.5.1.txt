@@ -1,1 +1,0 @@
-- [World Mode] Fixed music playing when the 'Play Music' option is set to 0

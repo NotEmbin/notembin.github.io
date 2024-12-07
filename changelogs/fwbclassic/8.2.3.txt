@@ -1,3 +1,0 @@
-- Fixed 'Bite' stopping all scripts
-- Fixed 'Bite' doing nothing towards Animdude and Animdude: The Revenge
-- Fixed the screen effect that plays when disguising not covering the entire screen

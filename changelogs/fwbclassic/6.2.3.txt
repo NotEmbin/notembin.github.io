@@ -1,3 +1,0 @@
-- Fixed Warning Screen Loading
-- Fixed Title Screen background showing when doing Bash Jam
-- "Fearless Fighter" will no longer play on the title screen

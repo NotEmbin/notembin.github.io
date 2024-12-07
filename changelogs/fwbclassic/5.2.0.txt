@@ -1,5 +1,0 @@
-- Added Small Scott (or Scott's Animdude Icon), along with the "Tiny 4th Wall" attack
-- The "Punch" attack does 30 damage instead of 20
-- Fixed the "Hook" attack being in the wrong place when playing as Nightmare Foxy
-- Added Scott Cawthon Boss Battle (Press E after winning a normal battle)
-- The Title and Start Button should have a lesser chance of disappearing

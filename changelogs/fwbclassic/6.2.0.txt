@@ -1,9 +1,0 @@
-- Added Angry Freddy
-- Added Uncle Bonnie
-- Added Animdude: The Revenge boss battle (Press 'R' after defeating normal Animdude)
-- New achievements (Achievement Pack 2)!
-- Jack o' Bombs deal more damage and less self damage
-- Buzzsaw deals less self damage
-- Animdude has 1000 health instead of 1150
-- 'Bite 2' now does 30 damage against Animdude
-- Once again, 'Hook' is in the right place

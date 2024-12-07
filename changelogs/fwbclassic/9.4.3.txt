@@ -1,6 +1,0 @@
-- [World Mode] Added a 'Return to Title' button
-- [World Mode] Fixed the 'Chips' button overlapping the version number
-- Splash text looks different
-- Fixed certain achievement pop-ups not triggering
-- Fixed some buttons making noises when they shouldn't
-- Internal changes

@@ -1,6 +1,0 @@
-- Added Crying Child
-- Vastly overhauled the credits
-- Framerate Counter changed
-- Partially fixed "Bash Jam" and "Balloons" creating more clones then they should.
-- Fixed the Mouse being broken
-- Internal Changes

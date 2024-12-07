@@ -1,6 +1,0 @@
-- Added Spy
-- Music no longer changes when in the team selection screen
-- New splash text
-- Increased Heavy's health from 165 to 170
-- Optimized some code
-- Internal changes

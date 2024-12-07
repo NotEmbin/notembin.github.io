@@ -1,5 +1,0 @@
-- Fixed the Evilbear looking how he did before v9.4 after attacking
-- Fixed Redbear turning back into the Evilbear after attacking
-- Fixed the 'Random' option's tooltip appearing when it shouldn't
-- Fixed the Evilbear's animation becoming slower after attacking
-- Fixed the Evilbear's animation playing when the 'Animate Characters' option is off

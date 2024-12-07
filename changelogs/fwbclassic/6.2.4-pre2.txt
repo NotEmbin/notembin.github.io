@@ -1,4 +1,0 @@
-- Removed more unnecessary files
-- Redbear will now be the enemy when playing as Fredbear
-- Fixed the "Jack-O-Bomb" Attack doing nothing towards Animdude: The Revenge
-- Fixed the "Slasher" Attack doing nothing towards Animdude: The Revenge

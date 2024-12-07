@@ -1,0 +1,33 @@
+{
+    "release_date":1733549500000,
+    "name":"changelog test",
+    "format":1,
+    "additions":[
+        "added dogs",
+        "added your mom",
+        "killed john",
+        "added deez nuts"
+    ],
+    "changes":[
+        "Changed Fredbear's health from 4 to 3",
+        "apple"
+    ],
+    "technical":[
+        "seeping",
+        "removed all the code, no more code",
+        "dying"
+    ],
+    "fixes":[
+        "fixed your mom being to fat LOL!",
+        "fixed freddy not liking you",
+        "fixed bonne thinking you're ugly af",
+        "tried to fix you (may need to be reverted if unsuccessful)"
+    ],
+    "removed":[
+        "removed herobrine",
+        "removed dogs"
+    ],
+    "other":[
+        "too many sheep"
+    ]
+}

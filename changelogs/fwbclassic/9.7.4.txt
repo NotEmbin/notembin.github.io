@@ -1,5 +1,0 @@
-- [World Mode] Fixed version number being wrong
-- [World Mode] Fixed the dialogue with NPC 1 being wonky
-- Removed many unnecessary files
-
-28

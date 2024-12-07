@@ -1,2 +1,0 @@
-- Fixed Nightmare Fredbear being frozen
-- Fixed the Evilbear freezing when playing as Steve or Alex

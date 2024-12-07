@@ -1,3 +1,0 @@
-- [World Mode] Fixed the 'In World Mode' variable not being set to 0 when clicking the green flag
-
-27

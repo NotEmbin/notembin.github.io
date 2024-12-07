@@ -1,3 +1,0 @@
-- Fixed the background only being Lilygear Lake during Battle
-- Assets now are set to 90 degrees on start
-- Exp and Faz Tokens earned is no longer allways 100

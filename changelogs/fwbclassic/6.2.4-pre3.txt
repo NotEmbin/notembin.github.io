@@ -1,3 +1,0 @@
-- Changed the main menu to fit longer version names
-- Fixed the "Victory" pop-up showing after defeating Animdude: The Revenge
-- The achievements button and mouse toggle button swapped places
