@@ -2,5 +2,14 @@
 	"game":"fwb",
 	"format":1,
 	"channels":["release","beta","experimental","testing"],
-	"logs":[]
+	"logs":[
+		{
+			"version_display":"1.0.1",
+			"numerical_version":2,
+			"protocol_version":1,
+			"timestamp":1734069600000,
+			"channel":"release",
+			"file":"1.0.1"
+		}
+	]
 }

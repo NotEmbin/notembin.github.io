@@ -1,0 +1,16 @@
+{
+	"release_date":1734069600000,
+	"name":"1.0.1",
+	"format":1,
+	"changes":[
+		"Increased the chances of \"Unscrew\" insta-killing the Evil Bear",
+		"\"Jack o' Chica\" now has 260 health instead of 255"
+	],
+	"technical":[
+		"Removed `evilbear` from the `is_boss` enemy tag",
+		"New `has_boss_size` enemy tag, containing `evilbear`"
+	],
+	"fixes":[
+		"Fixed Animdude's name appearing as \"enemy.fwb.normal_mode_animdude\" in battle"
+	]
+}
