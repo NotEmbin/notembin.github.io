@@ -1,0 +1,70 @@
+{
+	"release_date":1735357278361,
+	"name":"1.1",
+	"format":1,
+	"additions":[
+		"- Modes - -",
+		"Added Classic Mode",
+		"",
+		"- Characters - -",
+		"Added Nightmare",
+		"Added Balloon Boy",
+		"Added Toy Bonnie",
+		"Added Nightmare Chica",
+		"Added Spring Bonnie",
+		"Added Nightmare BB",
+		"Added Withered Foxy",
+		"Added Phantom Freddy",
+		"Added Chica",
+		"Added Toy Chica",
+		"Added Mangle",
+		"",
+		"- Attacks - -",
+		"Added Balloons 2",
+		"Added Bash Jam",
+		"Added Toxic Song",
+		"Added Bad Pizza",
+		"Added Cupcake",
+		"Added Gift Boxes",
+		"Added Prize Ball 3"
+	],
+	"changes":[
+		"\"Shadow Freddy\" now has \"Unscrew 2\" instead of \"Unscrew\"",
+		"\"Bite\" attacks now only damage 1 player/enemy instead of their entire team",
+		"\"Nightmare Fredbear\" now has 225 health instead of 215",
+		"\"Springtrap\" now has 225 health instead of 230"
+	],
+	"technical":[
+		"Removed `chica` from `hidden_characters` character tag",
+		"",
+		"The `generic.toss` attack type now supports the `screen_shake_on_hit_duration` parameter",
+		"- Defaults to 0.05 if omitted",
+		"",
+		"The `generic.toss` attack type now supports the `screen_shake_duration` parameter",
+		"- Defaults to 0 if omitted",
+		"",
+		"New `gift_boxes` attack type",
+		"- Has `chance` parameter, which ranges from 0 to 1",
+		"- - Controls the chance of gift boxes being summoned",
+		"- - Defaults to 1 when omitted",
+		"",
+		"New \"warned_missing_texture\" list",
+		"`bite` attack type no longer damages the entire enemy team",
+		"`bite` attack type no longer damages the entire player team",
+		"New `prize_ball_3_list` attack tag",
+		"The `prize_ball` attack type now supports the `texture_color_change` parameter",
+		"The `prize_ball` attack type now supports the `texture_tint` parameter",
+		"The `evil_bear_chomp` attack type now supports the `texture_color_change` parameter",
+		"The `evil_bear_chomp` attack type now supports the `texture_tint` parameter"
+	],
+	"fixes":[
+		"Fixed a line wrapping issue with change logs",
+		"Fixed the 3rd attack button not appearing sometimes when attacking too quickly",
+		"Fixed issues with attack damage when they're configured to damage all party members"
+	],
+	"removed":[
+		"Removed a debug keybind that was accidently left in the game"
+	],
+	"other":[
+	]
+}

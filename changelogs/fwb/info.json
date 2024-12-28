@@ -4,6 +4,14 @@
 	"channels":["release","beta","experimental","testing"],
 	"logs":[
 		{
+			"version_display":"1.1",
+			"numerical_version":3,
+			"protocol_version":2,
+			"timestamp":1735357278361,
+			"channel":"release",
+			"file":"1.1"
+		},
+		{
 			"version_display":"1.0.1",
 			"numerical_version":2,
 			"protocol_version":1,
