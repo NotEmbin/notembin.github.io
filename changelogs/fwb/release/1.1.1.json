@@ -1,0 +1,8 @@
+{
+	"release_date":1735504994563,
+	"name":"1.1.1",
+	"format":1,
+	"fixes":[
+		"Reverted to an older version of \"Clones+\" to fix attacking freezing the tab"
+	]
+}
