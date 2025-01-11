@@ -57,7 +57,8 @@
 		"- ...respective atlas texture, so the first item in an array would be...",
 		"- ...an alias for the first texture in the atlas, or `<namespace>:<id>@1`, and so on.",
 		"- Textures in the atlas are counted left to right, top to bottom",
-		"- There are still some issues with texture atlases, so they should only be used in specific scenarios",
+		"- There are still some issues with texture atlases, so they should only be...",
+		"- ...used in specific scenarios"
 		"",
 		"New `start_sound` sound parameter for characters",
 		"- Controls what sound the character makes at the start of a battle",
@@ -94,6 +95,7 @@
 		"Fixed some settings not updating when importing settings from a file",
 		"Fixed the textures for many characters being double the resolution they should be",
 		"Fixed every log being included in error logs when an error is logged instead of just the error",
-		"Fixed your party disappearing early when continuing to the title screen from the Animdude fight"
+		"Fixed your party disappearing early when continuing to the title screen...",
+		"...from the Animdude fight"
 	]
 }
