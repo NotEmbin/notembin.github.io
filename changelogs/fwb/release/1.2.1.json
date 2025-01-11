@@ -1,12 +1,13 @@
 {
 	"release_date":1736553900000,
-	"name":"1.2",
+	"name":"1.2.1",
 	"format":1,
 	"additions":[
 	],
 	"changes":[
 		"The Endo Army's Lasers now do 30 damage instead of 60",
-		"The Endo Army's Lasers can now crit"
+		"The Endo Army's Lasers can now crit",
+		"Endo Army's now only last for 10 seconds instead of 16"
 	],
 	"technical":[
 	],
