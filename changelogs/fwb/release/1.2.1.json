@@ -1,18 +1,18 @@
 {
-	"release_date":1736553900000,
+	"release_date":1736632801681,
 	"name":"1.2.1",
 	"format":1,
-	"additions":[
-	],
 	"changes":[
 		"The Endo Army's Lasers now do 30 damage instead of 60",
 		"The Endo Army's Lasers can now crit",
 		"Endo Army's now only last for 10 seconds instead of 16"
 	],
 	"technical":[
+		"The `generic/menus_that_fade` data file now supports being loaded from multiple...",
+		"... namespaces, instead of just the game's default namespace"
 	],
 	"fixes":[
-		"Fixed the gaming storing your settings in local storage as a string instead of an object",
+		"Fixed an issue with the game storing your settings in local storage",
 		"Fixed the buttons in the Controls and Change Logs menu scrolling incorrectly"
 	]
 }
