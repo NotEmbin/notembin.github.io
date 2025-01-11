@@ -58,7 +58,7 @@
 		"- ...an alias for the first texture in the atlas, or `<namespace>:<id>@1`, and so on.",
 		"- Textures in the atlas are counted left to right, top to bottom",
 		"- There are still some issues with texture atlases, so they should only be...",
-		"- ...used in specific scenarios"
+		"- ...used in specific scenarios",
 		"",
 		"New `start_sound` sound parameter for characters",
 		"- Controls what sound the character makes at the start of a battle",

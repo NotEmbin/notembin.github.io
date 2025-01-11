@@ -1,0 +1,17 @@
+{
+	"release_date":1736553900000,
+	"name":"1.2",
+	"format":1,
+	"additions":[
+	],
+	"changes":[
+		"The Endo Army's Lasers now do 30 damage instead of 60",
+		"The Endo Army's Lasers can now crit"
+	],
+	"technical":[
+	],
+	"fixes":[
+		"Fixed the gaming storing your settings in local storage as a string instead of an object",
+		"Fixed the buttons in the Controls and Change Logs menu scrolling incorrectly"
+	]
+}
