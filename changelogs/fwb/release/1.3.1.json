@@ -1,0 +1,12 @@
+{
+	"release_date":1748899860829,
+	"name":"1.3.1",
+	"format":1,
+	"technical":[
+		"Updated the `kill` debugger command:",
+		"- Better handling of invalid parameters"
+	],
+	"fixes":[
+		"Fixed tooltip width being inconsistent due to an update to an extension"
+	]
+}
