@@ -1,0 +1,20 @@
+{
+	"release_date":1744860684101,
+	"name":"1.4",
+	"format":1,
+	"additions":[
+	
+	],
+	"changes":[
+	
+	],
+	"technical":[
+		"New functionality when refering to a texture ID",
+		"- The `engine` namespace is now also searched for the specified texture when no namespace is specified",
+		"- If a texture exists under both namespaces, the one under `fwb` will be chosen",
+		"- This change only applies to textures"
+	],
+	"fixes":[
+	
+	]
+}

@@ -1,7 +1,7 @@
 {
 	"game":"fwb",
 	"format":1,
-	"channels":["release","beta","experimental","testing"],
+	"channels":["release","beta","experimental"],
 	"logs":[
 		{
 			"version_display":"1.3.1",
