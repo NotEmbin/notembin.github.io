@@ -1,22 +1,47 @@
 {
-	"release_date":1744860684101,
+	"release_date":1761849872112,
 	"name":"1.4",
 	"format":1,
 	"additions":[
 		"Added Chips",
+		"New \"Attack Buttons Postition\" setting",
 		"",
 		"- Characters - -",
-		"Added Pang"
+		"Added Pang",
+		"Added Freddy Frostbear",
+		"Added Shadow Freddy Frostbear",
+		"Added Freddy Fazbear (Upgraded)",
+		"",
+		"- Attacks - -",
+		"Added Squawk",
+		"Added Icicle Toss",
+		"Added Icicle Rain",
+		"Added Pizza Wheel 3",
+		"Added Mic Toss 2",
+		"Added Birthday 2"
 	],
 	"changes":[
+		"Moved the slider for \"Blur\" higher in the video settings list",
 		"Increased ddededodediamante's health from 240 to 280",
 		"Increased Mr. Chipper's health from 270 to 350",
-		"Increased Nightmare BB's health from 250 to 375",
-		"Bonnie now has Birthday instead of Speed Song"
+		"Increased Nightmare BB's health from 250 to 350",
+		"Increased Nightmarionne's health from 270 to 350",
+		"Bonnie now has Birthday instead of Speed Song",
+		"Increased Purple Guys's health from 240 to 280",
+		"Increased Animdude's health from 280 to 360",
+		"The minimum duration between attacks is now 0.75 seconds instead of 0.8 seconds",
+		"Increased Unscrew 2's chance of unscrewing an enemy from 25% to 40%",
+		"Increased Unscrew 2's chance of unscrewing a boss from 0.5% to 2%",
+		"Increased Unscrew's chance of unscrewing an enemy from 10% to 25%",
+		"Increased Unscrew's chance of unscrewing a boss from 0.1% to 1%",
+		"The attack color for 4th Wall is now Blaze Orange instead of Black",
+		"Increased Jack o' Chica's health from 260 to 350",
+		"Increased Slasher's chance of criting from 3% to 8%",
+		"Added tooltips when hovering over bytes in the byte selection menu"
 	],
 	"technical":[
 		"Splash text can now have a author assigned to them by appending \" \\\\\\ Author Name\" to the end of the splash",
-		"Renamed the `boost_stats` parameter for attacks to `apply_party_stats` to be consistent with attack definitions",
+		"Renamed the `boost_stats` parameter for attacks to `apply_party_stats` to be consistent with byte definitions",
 		"",
 		"New registry: `chips`",
 		"- Defined at `data/<namespace>/chips/<id>.json`",
@@ -25,6 +50,15 @@
 		"- `apply_party_stats` object parameter works just like it does in byte definitions",
 		"- `run_attack` object parameter works just like it does in byte definitions",
 		"- `apply_effect` object parameter works just like it does in attack definitions",
+		"- `crit_chance_modifier` object parameter to override crit chances of attacks",
+		"- - `target_player` percentage parameter overrides crit chance for attacks targeting the player party",
+		"- - `target_enemy` percentage parameter overrides crit chance for attacks targeting the enemy party",
+		"- - `allow_all_attacks_to_crit` boolean parameter allows all attacks to crit when true",
+		"- - - Does not affect enemy attacks",
+		"- - - This parameter does not affect an attacks chance to crit",
+		"- - - Attacks that defined their crit chance as 0% would still never crit if this was the only parameter defined in this object",
+		"- - `ignore_all_special_cases` boolean parameter to ignore special cases for crit chances",
+		"- - - Ignore certain tags such as the `one_shot_attacks_work` enemy tag",
 		"",
 		"New registry: `levels`",
 		"- Defined at `data/<namespace>/levels/<id>.json`",
@@ -34,12 +68,24 @@
 		"- `player_controller` parameter defines how the player should be controlled when in the level",
 		"- - Currently, the only available controller is `topdown`",
 		"- See `fwb:default_empty` as an example for how levels are defined",
+		"",
+		"New `apply_enemy_party_stats` parameter for attack definitions",
+		"- Acts just like `apply_party_stats` but it applies to the enemy party instead of the player's",
+		"New `blocked_by_walls` attack tag for attacks",
+		"- Completely negates damage of the attack if a neon wall instance exists",
+		"- Only works for attacks that are of type `generic.toss` or `generic.swarm`",
+		"- Intended for enemy attacks"
 	],
 	"fixes":[
 		"Fixed getting more party stat boosts than intended when using a stat boosting byte",
-		"Fixed getting a party stat boost despite not having any bytes equipped if a previous battle had a stat boosting byte equipped"
+		"Fixed getting a party stat boost despite not having any bytes equipped if a previous battle had a stat boosting byte equipped",
+		"Fixed crit particles causing an uncaught error when created"
 	],
 	"removed":[
-		"Removed High Contrast video setting due to it being buggy and unstable"
+		"Removed High Contrast video setting due to it being buggy and unstable",
+		"Removed code to download a different gamedata.zip on startup on April 1st"
+	],
+	"other":[
+		"Stopped using deprecated \"Embin's Utils\" JSON blocks in the code for settings buttons"
 	]
 }
