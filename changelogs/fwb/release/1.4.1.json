@@ -1,0 +1,12 @@
+{
+	"release_date":1762669556074,
+	"name":"1.4.1",
+	"format":1,
+	"fixes":[
+		"Fixed `Popup Duration` setting being ignored",
+		"Fixed the name of the Crit Resistance chip appearing as chip.fwb.crit_resistance",
+		"Fixed the name of the 100% Crits chip appearing as chip.fwb.always_crit",
+		"Fixed the name of the Music Pitch setting appearing as setting.fwb.music_pitch",
+		"Fixed certain elements not appearing or working on the title screen"
+	]
+}
